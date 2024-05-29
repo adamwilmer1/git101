@@ -15,8 +15,8 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-def adding_numbers(num):
-    A = num+5
+def adding_numbers(num1, num2):
+    A = num1+num2
     return A
 
 
